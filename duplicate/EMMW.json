@@ -1,0 +1,155 @@
+{
+    "EMMW": [
+        {
+            "property": "Device Address",
+            "value": 2
+        },
+        {
+            "property": "CTR Primary",
+            "value": 15
+        },
+        {
+            "property": "CTR Secondary",
+            "value": 5
+        },
+        {
+            "property": "Phase Voltage - RN",
+            "value": 236.3
+        },
+        {
+            "property": "Phase Voltage - YN",
+            "value": 234.8
+        },
+        {
+            "property": "Phase Voltage - BN",
+            "value": 237.4
+        },
+        {
+            "property": "Phase Voltage - Average",
+            "value": 236.1
+        },
+        {
+            "property": "Line Voltage - RY",
+            "value": 407.9
+        },
+        {
+            "property": "Line Voltage - YB",
+            "value": 408.9
+        },
+        {
+            "property": "Line Voltage - BR",
+            "value": 410.2
+        },
+        {
+            "property": "Frequency",
+            "value": 49.93
+        },
+        {
+            "property": "Power Factor - R",
+            "value": 327.68
+        },
+        {
+            "property": "Power Factor - Y",
+            "value": 327.68
+        },
+        {
+            "property": "Power Factor - B",
+            "value": 327.68
+        },
+        {
+            "property": "Power Factor - Combined",
+            "value": 327.68
+        },
+        {
+            "property": "Current - R",
+            "value": 0.0
+        },
+        {
+            "property": "Current - Y",
+            "value": 0.0
+        },
+        {
+            "property": "Current - B",
+            "value": 0.0
+        },
+        {
+            "property": "Current - Average",
+            "value": 0.0
+        },
+        {
+            "property": "Active Power - R",
+            "value": 0.0
+        },
+        {
+            "property": "Active Power - Y",
+            "value": 0.0
+        },
+        {
+            "property": "Active Power - B",
+            "value": 0.0
+        },
+        {
+            "property": "Active Power - Combined",
+            "value": 0.0
+        },
+        {
+            "property": "Apparant Power - R",
+            "value": 0.0
+        },
+        {
+            "property": "Apparant Power - Y",
+            "value": 0.0
+        },
+        {
+            "property": "Apparant Power - B",
+            "value": 0.0
+        },
+        {
+            "property": "Apparant Power - Combined",
+            "value": 0.0
+        },
+        {
+            "property": "Reactive Power - R",
+            "value": 0.0
+        },
+        {
+            "property": "Reactive Power - Y",
+            "value": 0.0
+        },
+        {
+            "property": "Reactive Power - B",
+            "value": 0.0
+        },
+        {
+            "property": "Reactive Power - Combined",
+            "value": 0.0
+        },
+        {
+            "property": "Active Energy - Combined",
+            "value": 41.1
+        },
+        {
+            "property": "Apparant Energy - Combined",
+            "value": 1022.3
+        },
+        {
+            "property": "Reactive Energy - Combined",
+            "value": 21.9
+        },
+        {
+            "property": "ON Hour",
+            "value": "25660.05"
+        },
+        {
+            "property": "RUN Hour",
+            "value": "7515.12"
+        }
+    ],
+    "NumberofEM": 1,
+    "NumberofProperties": 36,
+    "deviceid": 90196,
+    "devicetype": "EMMW",
+    "networkid": 444452,
+    "responsecmd": "UpdatedData",
+    "updatedat": "2023-10-26 16:31:40.756771"
+}

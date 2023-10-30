@@ -1,0 +1,48 @@
+{
+    "NumberofTstat": 1,
+    "Tstat": [
+        {
+            "NumberofProperties": 8,
+            "TstatID": 3040201,
+            "Tstatproperty": [
+                {
+                    "property": "Current Temperature",
+                    "value": 23.7
+                },
+                {
+                    "property": "Air Flow Input",
+                    "value": 1068.5
+                },
+                {
+                    "property": "OP1 Cool Stage 1",
+                    "value": 100.0
+                },
+                {
+                    "property": "OP2 Cool Stage 2",
+                    "value": 0.0
+                },
+                {
+                    "property": "OP3 Remote",
+                    "value": 0.0
+                },
+                {
+                    "property": "Day Set Point",
+                    "value": 19.0
+                },
+                {
+                    "property": "Day Minimum Temperature",
+                    "value": 16.0
+                },
+                {
+                    "property": "Changes in Temperature Unit",
+                    "value": 0.5
+                }
+            ]
+        }
+    ],
+    "deviceid": 519435,
+    "devicetype": "TCN",
+    "networkid": 444452,
+    "responsecmd": "UpdatedData",
+    "updatedat": "2023-10-26 16:30:35.768594"
+}

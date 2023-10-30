@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.11.5 on win32)" generated="20231027 12:10:18.560" rpa="false" schemaversion="4">
+<suite id="s1" name="ems AHUG test cases" source="C:\Users\user\PycharmProjects\pythonProject2\ui_automation\test_cases_lib\ems_AHUG_test_cases.robot">
+<test id="s1-t1" name="TC_change_mode_to_manaul_AHUG" line="7">
+<kw name="Change Mode To Manaul AHUG" library="test_exct">
+<var>${TEST}</var>
+<msg timestamp="20231027 12:10:47.332" level="INFO">MANUAL
+login successfully done</msg>
+<msg timestamp="20231027 12:10:47.333" level="INFO">${TEST} = upadated to the manual mode</msg>
+<status status="PASS" starttime="20231027 12:10:19.319" endtime="20231027 12:10:47.333"/>
+</kw>
+<doc>change_mode_to_manaul_AHUG passed</doc>
+<status status="PASS" starttime="20231027 12:10:19.318" endtime="20231027 12:10:47.334"/>
+</test>
+<status status="PASS" starttime="20231027 12:10:18.563" endtime="20231027 12:10:47.339"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="ems AHUG test cases">ems AHUG test cases</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
